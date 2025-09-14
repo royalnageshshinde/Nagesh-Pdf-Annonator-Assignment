@@ -1,0 +1,1 @@
+export const BACKEND_BASE = import.meta.env.VITE_BACKEND || 'http://localhost:8080';
